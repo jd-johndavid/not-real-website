@@ -15,3 +15,7 @@ p {
     justify-content: center;
     margin: 20px;
 }
+.clickables {
+    margin: 0px;
+    justify-content: flex-start;
+}
