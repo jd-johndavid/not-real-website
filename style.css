@@ -1,5 +1,17 @@
 h1 {
-    color: blueviolet;
+    color: rebeccapurple;
     text-align: center;
     font-size: 50;
+}
+p {
+    color: coral;
+    text-align: center;
+    font-size: 15px;
+    margin: 50px;
+    background-color: cyan;
+}
+.box {
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
 }
